@@ -55,8 +55,8 @@
 ---
 
 ## 📬 Contact  
-👤 **Author**: Your Name  
-📧 **Email**: your.email@example.com  
+👤 **Author**: Abhishek kumar
+📧 **Email**:abhishek_259198@saitm.ac.in  
 🌐 **Portfolio**: [Your Website/LinkedIn/GitHub]  
 
 ---
